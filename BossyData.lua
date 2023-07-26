@@ -2,9 +2,10 @@
 -- List of bosses by dungeon
 
 local bossList = {
-  ["Ragefire Chasm"] = 
-    {"Taragaman the Hungerer"},
-    {"Jergosh the Invoker"},
-    {"Bazzalan"}
+  ["Ragefire Chasm"] = {
+    "Taragaman the Hungerer",
+    "Jergosh the Invoker",
+    "Bazzalan"
+  }
 }
 return bossList
