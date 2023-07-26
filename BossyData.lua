@@ -1,4 +1,4 @@
--- BossyList.lua
+-- BossyData.lua
 -- List of bosses by dungeon
 
 local bossList = {
@@ -8,3 +8,4 @@ local bossList = {
     "Bazzalan"
   }
 }
+return bossList
